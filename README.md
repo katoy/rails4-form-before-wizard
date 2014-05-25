@@ -13,7 +13,7 @@
 	$ RAILS_ENV=test bundle exec rake db:create db:migrate db:test:prepare
 	$ RAILS_ENV=test bundle exec rake spec
 
-    ./screenshots/+.png として主なシーンのスクリーンショットが保存される。  
+    [./screenshots/*.png](./scrennshots/) として主なシーンのスクリーンショットが保存される。  
 	./coverage/rcov/index.html にテストカバレッジレポートが保存される。  
 
 
