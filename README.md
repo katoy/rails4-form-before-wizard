@@ -1,7 +1,7 @@
 
-[![Build Status](https://travis-ci.org/katoy/rails3-associations.png?branch=master)](https://travis-ci.org/rails4-form-before-wizard)
-[![Dependency Status](https://gemnasium.com/katoy/rails3-associations.png)](https://gemnasium.com/katoy/rails4-form-before-wizard)
-[![Coverage Status](https://coveralls.io/repos/katoy/rails3-associations/badge.png?branch=master)](https://coveralls.io/r/katoy/rails4-form-before-wizard?branch=master)
+[![Build Status](https://travis-ci.org/katoy/rails4-form-before-wizard.svg?branch=master)](https://travis-ci.org/katoy/rails4-form-before-wizard)
+[![Dependency Status](https://gemnasium.com/katoy/rails4-form-before-wizard.png)](https://gemnasium.com/katoy/rails4-form-before-wizard)
+[![Coverage Status](https://coveralls.io/repos/katoy/rails4-form-before-wizard/badge.png?branch=master)](https://coveralls.io/r/katoy/rails4-form-before-wizard?branch=master)
 
 これは、rails4 アポリケーションでの Form 画面のサンプルです。  
 別レポジトリーで、この form 画面を wizard 形式に変更をしていきます。  
