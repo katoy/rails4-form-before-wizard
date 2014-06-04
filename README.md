@@ -3,7 +3,7 @@
 [![Dependency Status](https://gemnasium.com/katoy/rails4-form-before-wizard.png)](https://gemnasium.com/katoy/rails4-form-before-wizard)
 [![Coverage Status](https://coveralls.io/repos/katoy/rails4-form-before-wizard/badge.png?branch=master)](https://coveralls.io/r/katoy/rails4-form-before-wizard?branch=master)
 
-これは、rails4 アポリケーションでの Form 画面のサンプルです。  
+これは、rails4 アプリケーションでの Form 画面のサンプルです。  
 別レポジトリーで、この form 画面を wizard 形式に変更をしていきます。  
 
 #
